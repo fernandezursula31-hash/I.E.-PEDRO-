@@ -1,0 +1,8 @@
+{
+  "name": "Remix I.E. Pedro Abel Labarthe Durand",
+  "description": "Página web institucional informativa y de especialidades técnicas de la I.E. Secundaria con Formación Técnica Pedro Abel Labarthe Durand (Chiclayo, Lambayeque - Perú).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
